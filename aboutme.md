@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Luck is residue of design
+title: 𝘈𝘣𝘰𝘶𝘵 𝘮𝘦
+subtitle: 𝘓𝘶𝘤𝘬 𝘪𝘴 𝘳𝘦𝘴𝘪𝘥𝘶𝘦 𝘰𝘧 𝘥𝘦𝘴𝘪𝘨𝘯
 ---
 
 ### Hi, I'm Yewon Kim 👋
